@@ -1,0 +1,1 @@
+Basic generic BlockchainCoded in Anacoda Spyder and runs as a Flask applicationopen in Spyder and run the blockchain.pyOpen Postman and call the two apis on port 5000
